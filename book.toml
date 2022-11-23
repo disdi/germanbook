@@ -7,5 +7,5 @@ title = "German Book"
 
 [output.html]
 curly-quotes = true
-git-repository-url = "https://github.com/maverickcasanova/book"
-site-url = "https://maverickcasanova.github.io/book/"
+git-repository-url = "https://github.com/disdi/germanbook"
+site-url = "https://saketsinha.de/germanbook/"
