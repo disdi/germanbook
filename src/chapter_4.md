@@ -3,47 +3,50 @@
 ## Accusative Case - Articles
 
 ### Masculine
-* Ich fahre den Wagen.<br />
-* Ich fahre einen Wagen.<br />
-* Ich fahre keinen Wagen.<br />
+
+* Ich fahre den Wagen.
+* Ich fahre einen Wagen.
+* Ich fahre keinen Wagen.
 
 ### Feminine
-* Ich kaufe die Uhr.<br />
-* Ich kaufe ein Uhr.<br />
-* Ich kaufe kein Uhr.<br />
+
+* Ich kaufe die Uhr.
+* Ich kaufe ein Uhr.
+* Ich kaufe kein Uhr.
 
 ### Neutral
-* Ich lese das Buch.<br />
-* Ich lese ein Buch.<br />
-* Ich lese kein Buch.<br />
+
+* Ich lese das Buch.
+* Ich lese ein Buch.
+* Ich lese kein Buch.
 
 ### Plural
-* Ich lese die Bücher.<br />
-* Ich lese keine Bücher.<br />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+* Ich lese die Bücher.
+* Ich lese keine Bücher.
 
-## Accusative Case - Prepositions<br />
+## Accusative Case - Prepositions
 
 ### Durch
-* Ich gehe *durch den Park*.<br />
+
+* Ich gehe *durch den Park*.
 
 ### Für
-* Ich kaufe essen *für meinen Vater*.<br />
+
+* Ich kaufe essen *für meinen Vater*.
 
 ### Ohne
-* Ich reise *ohne meinen Wagen*.<br />
+
+* Ich reise *ohne meinen Wagen*.
 
 ### Gegen
-* Der Wagon fährt *gegen ein Haus*.<br />
+
+* Der Wagon fährt *gegen ein Haus*.
 
 ### Um
-* Ich macht nichts *um die Umwelt*.<br />
+
+* Ich macht nichts *um die Umwelt*.
 
 ### Entlang
-* Ich gehe  *den Weg entlang*.<br />
+
+* Ich gehe  *den Weg entlang*.

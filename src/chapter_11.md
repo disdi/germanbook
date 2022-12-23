@@ -31,11 +31,6 @@
 | bei  (Dat)  |  Wo    | Ich bin beim Training|
 | zu   (Dat)  |  Wohin | Ich gehe zum Arzt    |
 
-<br />
-<br />
-<br />
-<br />
-
 #### Akkusativ
 
 | Prepostition     | Platz  | Bispeil                       |  Verb   |
@@ -44,8 +39,6 @@
 | an               |  Wohin | Ich stelle es aus den Tisch   |  stellen|
 | in               |  Wohin | Ich stecke es in die Geldbörse|  stecken|
 | an               |  Wohin | Ich hängen es an die Wand     |  hängen |
-
-
 
 #### Dativ
 

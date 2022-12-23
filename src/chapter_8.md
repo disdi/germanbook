@@ -1,11 +1,10 @@
 # Chapter 8
 
-## Verbs <br />
+## Verbs
 
-#### sein-haben-werden  <br />
+### sein-haben-werden  
 
-#### Formen <br />
-
+#### Formen
 
 | Prasens  |              |  sein   | haben  |  werden |
 |----------|--------------|---------|--------|---------|
@@ -14,7 +13,6 @@
 |          | er,sie,es    |   ist   |  hat   |  wird   |
 |          |   ihr        |   seid  |  habt  |  werdet |
 |          | wir/sie,Sie  |   sind  |  haben |  werden |
-
 
 | Präteritum |             |  sein   | haben    |  werden  |
 |------------|-------------|---------|----------|----------|
@@ -28,13 +26,11 @@
 |----------|------------|-------------------|------------------|-------------------|
 |          |   ich      |   bin ... gewesen |  habe ... gehabt |  bin ... geworden |
 
-
 | PlusqaumPerfekt |             |  sein             | haben             |  werden           |
 |-----------------|-------------|-------------------|-------------------|-------------------|
 |                 |   ich       |   war ... gewesen |  hatte ... gehabt |  war ... geworden |
 
-
-#### Benutzen <br />
+#### Benutzen
 
 |  sein          |  satz                        |  +              |
 |----------------|------------------------------|-----------------|
@@ -45,8 +41,7 @@
 |  als Hilfsverb |  ich war gestern angekommen  | PlusqaumPerfekt |
 |  als Modelverb |  Es ist noch viel zu tun     |                 |
 
-
-|  haben         |                             |  +             |
+|  haben         |      satz                   |  +             |
 |----------------|-----------------------------|----------------|
 |  als Vollverb  |  ich habe Hunger            |  Nomen         |
 |  als Hilfsverb |  ich habe ihn gefragt       |  Perfekt       |
@@ -62,10 +57,9 @@
 |  als Hilfsverb|  ich würde jetzt gern schlafen| Konjunktiv II|
 |  als Modelverb|  Es wird krank Sein           |              |
 
+### Weak Verbs
 
-### Weak Verbs <br />
-
-#### lachen/lernen <br />
+#### lachen/lernen
 
 |                |   Prasens|  Prateritum|
 |----------------|----------|------------|
@@ -75,9 +69,7 @@
 |    ihr         |   -t     |    -tet    |
 |    wir/sie/Sie |   -en    |    -ten    |
 
-
-
-### Strong Verbs <br />
+### Strong Verbs
 
 |             |  sprechen | lesen | treffen | essen |
 |-------------|-----------|-------|---------|-------|
@@ -87,17 +79,7 @@
 | ihr         |  sprecht  | lest  | trefft  | esst  |
 | wir/sie/Sie |  sprechen | lesen | treffen | essen |
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-### Verbs Perfect 1 (haben) <br />
+### Verbs Perfect 1 (haben)
 
 | ge-t    |  -t         |ge-n      |trennbar      |
 |---------|-------------|----------|--------------|
@@ -108,7 +90,7 @@
 | gefragt | verdient    |gegeben   |ferngesehen   |
 | gesagt  | besucht     |gegessen  |eingeschlafen |
 
-### Verbs Perfect 1 (sein) <br />
+### Verbs Perfect 1 (sein)
 
 | ge-n   | trennbar    |
 |--------|-------------|
@@ -117,9 +99,7 @@
 |gegangen| eingesteigen|
 |geflohen| aufgewachsen|
 
-
-
-### Model Verbs <br />
+### Model Verbs
 
 |             |  können | müssen | wollen | möchten  | dürfen | sollen |
 |-------------|---------|--------|--------|----------|--------|--------|

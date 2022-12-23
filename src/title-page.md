@@ -1,3 +1,3 @@
 # Learning the German Language
 
-*by Maverick*
+## &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; - Saket Sinha

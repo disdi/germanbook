@@ -3,24 +3,24 @@
 ## Nominative Case
 
 ### Masculine
-* der Mann geht.<br /> 
-* ein Mann geht.<br /> 
-* kein Mann geht.<br /> 
+
+* der Mann geht.
+* ein Mann geht.
+* kein Mann geht.
 
 ### Feminine
-* die Frau kommt.<br /> 
-* eine Frau kommt.<br /> 
-* keine Frau kommt.<br /> 
+
+* die Frau kommt.
+* eine Frau kommt.
+* keine Frau kommt.
 
 ### Neutral
-* das Kind spielt.<br /> 
-* ein Kind spielt.<br /> 
-* kein Kind spielt.<br /> 
+
+* das Kind spielt.
+* ein Kind spielt.
+* kein Kind spielt.
 
 ### Plural
-* die Kind spielt.<br /> 
-* keine Kind spielt.<br /> 
 
- 
-
-
+* die Kind spielt.
+* keine Kind spielt.

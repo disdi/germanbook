@@ -1,6 +1,6 @@
 # Chapter 7
 
-## Pronouns <br />
+## Pronouns
 
 |  Nominative| Accusative|   Dative  | Possessive|
 |------------|-----------|-----------|-----------|
@@ -14,50 +14,56 @@
 |    sie     |   sie     |    ihnen  |  ihr      |
 |    Sie     |   Sie     |    Ihnen  |  Ihr      |
 
-
 ### Ich
-* Accusative - Du sieht mich.<br />
-* Dative - Du gibt es mir.<br />
-* Possessive - Es ist mein Haus.<br />
+
+* Accusative - Du sieht mich.
+* Dative - Du gibt es mir.
+* Possessive - Es ist mein Haus.
 
 ### Du
-* Accusative - Ich sehe dich.<br />
-* Dative - Ich gebe es dir.<br />
-* Possessive - Es ist dein Haus.<br />
 
+* Accusative - Ich sehe dich.
+* Dative - Ich gebe es dir.
+* Possessive - Es ist dein Haus.
 
 ### Er
-* Accusative - Ich sehe ihn.<br />
-* Dative - Ich gebe ihm dies.<br />
-* Possessive - Es ist sein Haus.<br />
+
+* Accusative - Ich sehe ihn.
+* Dative - Ich gebe ihm dies.
+* Possessive - Es ist sein Haus.
 
 ### Es
-* Accusative - Ich sehe es.<br />
-* Dative - Ich gebe ihm dies.<br />
-* Possessive - Es ist sein Haus.<br />
 
-### sie
-* Accusative - Ich sehe sie.<br />
-* Dative - Ich gebe ihr dies.<br />
-* Possessive - Es ist ihr Haus.<br />
+* Accusative - Ich sehe es.
+* Dative - Ich gebe ihm dies.
+* Possessive - Es ist sein Haus.
+
+### sie (female)
+
+* Accusative - Ich sehe sie.
+* Dative - Ich gebe ihr dies.
+* Possessive - Es ist ihr Haus.
 
 ### Wir
-* Accusative - Ich sehe uns.<br />
-* Dative - Ich gebe uns dies.<br />
-* Possessive - Es ist unser Haus.<br />
+
+* Accusative - Ich sehe uns.
+* Dative - Ich gebe uns dies.
+* Possessive - Es ist unser Haus.
 
 ### ihr
-* Accusative - Ich sehe euch.<br />
-* Dative - Ich gebe euch dies.<br />
-* Possessive - Es ist euer Haus.<br />
 
+* Accusative - Ich sehe euch.
+* Dative - Ich gebe euch dies.
+* Possessive - Es ist euer Haus.
 
-### sie
-* Accusative - Ich sehe sie.<br />
-* Dative - Ich gebe ihnen dies.<br />
-* Possessive - Es ist ihr Haus.<br />
+### sie (they)
+
+* Accusative - Ich sehe sie.
+* Dative - Ich gebe ihnen dies.
+* Possessive - Es ist ihr Haus.
 
 ### Sie
-* Accusative - Ich sehe Sie.<br />
-* Dative - Ich gebe Ihnen dies.<br />
-* Possessive - Es ist Ihr Haus.<br />
+
+* Accusative - Ich sehe Sie.
+* Dative - Ich gebe Ihnen dies.
+* Possessive - Es ist Ihr Haus.

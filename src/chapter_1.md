@@ -1,6 +1,6 @@
 # Chapter 1
 
-Gender Indentifications by Word Endings .
+## Gender Indentifications by Word Endings
 
 |   der   |  die    |  das   |
 |---------|---------|--------|
@@ -19,5 +19,3 @@ Gender Indentifications by Word Endings .
 |         | -ur     |        |
 
 Gender of compound noun always the gender of the last noun.
-<br /> 
-

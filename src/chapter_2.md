@@ -1,6 +1,6 @@
 # Chapter 2
 
-**Declension of "the" Articles** <br />
+## Declension of "the" Articles
 
 |           | masculine|feminine | neutral |  plural |
 |-----------|----------|---------|---------|---------|
@@ -9,10 +9,7 @@
 | Dative    |    dem   |   der   |  dem    |  den    |
 | Genitive  |    des   |   der   |  des    |  der    |
 
-<br />
-
-
-**Declension of "a, an" Articles** <br />
+## Declension of "a, an" Articles
 
 |           | masculine| feminine| neutral|
 |-----------|----------|---------|--------|
@@ -20,6 +17,3 @@
 | Accusative| einen    | ein     | ein    |
 | Dative    | einem    | einer   | einem  |
 | Genitive  | eines    | einer   | eines  |
-
-
-

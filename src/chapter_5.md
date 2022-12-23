@@ -3,54 +3,58 @@
 ## Dativ Case - Articles
 
 ### Masculine
-* Ich schicke dem Vater nichts.<br />
-* Ich schicke einem Vater nichts.<br />
-* Ich schicke keinem Vater nichts.<br />
+
+* Ich schicke dem Vater nichts.
+* Ich schicke einem Vater nichts.
+* Ich schicke keinem Vater nichts.
 
 ### Feminine
-* Ich schicke der Mutter nichts.<br />
-* Ich schicke einer Mutter nichts.<br />
-* Ich schicke keiner Mutter nichts.<br />
+
+* Ich schicke der Mutter nichts.
+* Ich schicke einer Mutter nichts.
+* Ich schicke keiner Mutter nichts.
 
 ### Neutral
-* Ich schicke dem Kind nichts.<br />
-* Ich schicke einem Kind nichts.<br />
-* Ich schicke keinem Kind nichts.<br />
+
+* Ich schicke dem Kind nichts.
+* Ich schicke einem Kind nichts.
+* Ich schicke keinem Kind nichts.
 
 ### Plural
-* Ich schicke den Kinder nichts.<br />
-* Ich schicke keinen Kinder nichts<br />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+* Ich schicke den Kinder nichts.
+* Ich schicke keinen Kinder nichts
 
 ## Dativ Case - Prepositions
 
 ### aus
-* Ich gehe *aus dem Haus*.<br />
+
+* Ich gehe *aus dem Haus*.
 
 ### bei
-* Mein Wagon ist *bei meinem Haus*.<br />
+
+* Mein Wagon ist *bei meinem Haus*.
 
 ### mit
-* Ich fahre *mit dem Auto*.<br />
+
+* Ich fahre *mit dem Auto*.
 
 ### nach
-* Ich schlafe *nach der Arbeit*.<br />
+
+* Ich schlafe *nach der Arbeit*.
 
 ### seit
-* Ich lebe *seit* drei jahre in *deisem Haus*.<br />
+
+* Ich lebe *seit* drei jahre in *deisem Haus*.
 
 ### von
-* Ich bekomme einen Brief *von der Arbeit*.<br />
+
+* Ich bekomme einen Brief *von der Arbeit*.
 
 ### zu
-* Ich werde *zu meinem Geburtstag* eine Feier machen.<br />
+
+* Ich werde *zu meinem Geburtstag* eine Feier machen.
 
 ### gegenüber
-* ich habe *dem Leben gegenüber* eine positive Einstellung.<br />
 
+* ich habe *dem Leben gegenüber* eine positive Einstellung.
