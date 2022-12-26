@@ -20,6 +20,8 @@
 
 Gender of compound noun always the gender of the last noun.
 
+---
+
 ### -el
 
 Masculine     | Feminine      | Neutral
@@ -37,20 +39,24 @@ Masculine     | Feminine      | Neutral
  Der Äpfel    |               |
  Der Deckel   |               |
 
+---
+
 ### -en
 
-Masculine   | Feminine | Neutral
-------------|----------|---------
- Der Ofen   | Die Hosen| Das Küken
- Der Besen  |          | Das Hähnchen
- Der Bogen  |          | Das Rücken
- Der Haken  |          | Das Kuchen
- Der Regen  |          | Das Mädchen
- Der Wagen  |          | Das Kissen
- Der Daumen |          |
- Der Faden  |          |
- Der hasen  |          |
- Der Reifen |          |
+Masculine   | Feminine| Neutral
+------------|---------|---------
+ Der Ofen   |         | Das Küken
+ Der Besen  |         | Das Hähnchen
+ Der Bogen  |         | Das Rücken
+ Der Haken  |         | Das Kuchen
+ Der Regen  |         | Das Mädchen
+ Der Wagen  |         | Das Kissen
+ Der Daumen |         |
+ Der Faden  |         |
+ Der hasen  |         |
+ Der Reifen |         |
+
+---
 
 ### -er
 
@@ -68,3 +74,30 @@ Masculine     | Feminine   | Neutral
  Der Teller   |            |
  Der Sessel   |            |
  Der Pflaster |            |
+
+---
+
+### -ig
+
+Masculine  | Feminine | Neutral
+-----------|----------|---------
+ der Honig | - | -
+
+> **Mostly adjectives like -**  richtig, wichtig, fertig, ruhig
+---
+
+### -ich
+
+Masculine    | Feminine | Neutral
+-------------|----------|---------
+ der Teppich | - | -
+
+> **Mostly adjectives like -** wirklich, fröhlich, plötlich, moglich
+
+---
+
+### -ling
+
+Masculine     | Feminine | Neutral
+--------------|----------|---------
+ der Lehrling | - | -
