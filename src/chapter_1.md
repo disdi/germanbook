@@ -18,7 +18,7 @@
 |            | -ung     |         |
 |            | -ur      |         |
 
-Gender of compound noun always the gender of the last noun.
+> Gender of compound noun always the gender of the last noun.
 
 ---
 
@@ -81,23 +81,65 @@ Masculine     | Feminine   | Neutral
 
 Masculine  | Feminine | Neutral
 -----------|----------|---------
- der Honig | - | -
+ der Honig | X | X
 
 > **Mostly adjectives like -**  richtig, wichtig, fertig, ruhig
 ---
 
 ### -ich
 
-Masculine    | Feminine | Neutral
--------------|----------|---------
- der Teppich | - | -
+Masculine    | Feminine| Neutral
+-------------|---------|---------
+ der Teppich |   X     | X
 
-> **Mostly adjectives like -** wirklich, fröhlich, plötlich, moglich
+> **Mostly adjectives like -lich** wirklich, fröhlich, plötlich, moglich
 
 ---
 
 ### -ling
 
-Masculine     | Feminine | Neutral
---------------|----------|---------
- der Lehrling | - | -
+Masculine     | Feminine| Neutral
+--------------|---------|---------
+ der Lehrling |   X     | X
+
+---
+
+### -heit
+
+Masculine| Feminine        | Neutral
+---------|-----------------|---------
+ X       |   die Krankheit | X
+
+---
+
+### -keit
+
+Masculine| Feminine           | Neutral
+---------|--------------------|---------
+ X       |   die Fröhlichkeit | X
+
+---
+
+### -ung
+
+Masculine| Feminine| Neutral
+---------|---------|---------
+ X       |   X     | die Impfung
+
+---
+
+### -chen
+
+Masculine| Feminine| Neutral
+---------|---------|---------
+ X       |   X     | das Häuschen
+
+---
+
+### -lein
+
+Masculine| Feminine| Neutral
+---------|---------|---------
+ X       |   X     | das Bächlein
+
+---
