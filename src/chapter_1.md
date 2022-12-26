@@ -104,6 +104,23 @@ Masculine     | Feminine| Neutral
 
 ---
 
+### -e
+
+Masculine| Feminine    | Neutral
+---------|-------------|---------
+ X       |   die Kalte | X
+ X       |   die Frage | X
+
+---
+
+### -in
+
+Masculine| Feminine       | Neutral
+---------|----------------|---------
+ X       |   die Lehrerin | X
+
+---
+
 ### -heit
 
 Masculine| Feminine        | Neutral
@@ -122,9 +139,9 @@ Masculine| Feminine           | Neutral
 
 ### -ung
 
-Masculine| Feminine| Neutral
----------|---------|---------
- X       |   X     | die Impfung
+Masculine| Feminine      | Neutral
+---------|---------------|---------
+ X       |   die Impfung | X
 
 ---
 
@@ -133,6 +150,14 @@ Masculine| Feminine| Neutral
 Masculine| Feminine| Neutral
 ---------|---------|---------
  X       |   X     | das Häuschen
+
+---
+
+### -nis
+
+Masculine| Feminine| Neutral
+---------|---------|---------
+ X       |   X     | das Ereignis
 
 ---
 
