@@ -11,7 +11,7 @@
 ### Feminine
 
 * Ich kaufe die Uhr.
-* Ich kaufe ein Uhr.
+* Ich kaufe eine Uhr.
 * Ich kaufe kein Uhr.
 
 ### Neutral

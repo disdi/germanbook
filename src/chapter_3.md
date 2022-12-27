@@ -22,5 +22,5 @@
 
 ### Plural
 
-* die Kind spielt.
-* keine Kind spielt.
+* die Kinder spielt.
+* keine Kinder spielt.

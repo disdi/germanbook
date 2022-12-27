@@ -4,15 +4,16 @@
 
 ### Temporal Prepostitionen
 
-| Prepostition| Zeit              | Bispeil               |
-|-------------|-------------------|-----------------------|
-| an   (Dat)  |  Wochenende       | am Deinstag / am Abend|
-| um          |  Uhrzeit          | um drei Uhr           |
-| in   (Dat)  |  Monat/Jahrzeiten | im Juli/Summer        |
-| von/bis     |  Uhrzeit          | von 9 Uhr bis 10 Uhr  |
-| vor  (Dat)  |  before Zeitpunkt | von dem Kurs          |
-| nach (Dat)  |  After Zeitpunkt  | nach dem Kurs         |
-| für  (Akk)  |  Zeitspanne       | für zwei Wochen       |
+| Prepostition| Zeit                     | Bispeil                        |
+|-------------|--------------------------|--------------------------------|
+| an   (Dat)  |  Wochenende              | am Deinstag / am Abend         |
+| ab          |  Uhrzeit                 | ab drei Uhr (jetzt -> drei Uhr)|
+| um          |  Uhrzeit                 | um drei Uhr (x drei Uhr)       |
+| in   (Dat)  |  Tagzeit/Monat/Jahrzeiten| in der Nacht/im Juli/Summer    |
+| von/bis     |  Uhrzeit                 | von 9 Uhr bis 10 Uhr           |
+| vor  (Dat)  |  before Zeitpunkt        | von dem Kurs                   |
+| nach (Dat)  |  After Zeitpunkt         | nach dem Kurs                  |
+| für  (Akk)  |  Zeitspanne              | für zwei Wochen                |
 
 ### Modal Prepostitionen
 

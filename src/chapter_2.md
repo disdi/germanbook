@@ -14,6 +14,6 @@
 |           | masculine| feminine| neutral|
 |-----------|----------|---------|--------|
 | Nominative| ein      | eine    | ein    |
-| Accusative| einen    | ein     | ein    |
+| Accusative| einen    | eine    | ein    |
 | Dative    | einem    | einer   | einem  |
 | Genitive  | eines    | einer   | eines  |

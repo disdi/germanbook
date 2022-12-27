@@ -79,18 +79,19 @@
 | ihr         |  sprecht  | lest  | trefft  | esst  |
 | wir/sie/Sie |  sprechen | lesen | treffen | essen |
 
-### Verbs Perfect 1 (haben)
+### Verbs Perfect 1 (haben - No movement)
 
-| ge-t    |  -t         |ge-n      |trennbar      |
-|---------|-------------|----------|--------------|
-| gelernt | repariert   |gelesen   |angerufen     |
-| gemacht | trainiert   |geschlafen|aufgeräumt    |
-| gehort  | telephoniert|gesehen   |eingekauft    |
-| gespielt| verkauft    |getrunken |eingeladen    |
-| gefragt | verdient    |gegeben   |ferngesehen   |
-| gesagt  | besucht     |gegessen  |eingeschlafen |
+| ge-t       |  -t          |ge-n        |trennbar      |
+|------------|--------------|------------|--------------|
+| gelernt    | repariert    |gelesen     |angerufen     |
+| gemacht    | trainiert    |geschlafen  |aufgeräumt    |
+| gehort     | telephoniert |gesehen     |eingekauft    |
+| gespielt   | verkauft     |getrunken   |eingeladen    |
+| gefragt    | verdient     |gegeben     |ferngesehen   |
+| gesagt     | besucht      |gegessen    |eingeschlafen |
+| gearbeitet | fotografiert |geschrieben |              |
 
-### Verbs Perfect 1 (sein)
+### Verbs Perfect 1 (sein - movement)
 
 | ge-n   | trennbar    |
 |--------|-------------|
