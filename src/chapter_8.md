@@ -51,6 +51,7 @@
 |  werden       |  satz                         |  +           |
 |---------------|-------------------------------|--------------|
 |  als Vollverb |  ich werde Artzin             |  Nomen       |
+|  als Vollverb |  ich will Artzin werden       |  Nomen       |
 |  als Vollverb |  ich werde ungeduldig         |  Adjektiv    |
 |  als Hilfsverb|  Hier wird eine museum gebaut | Passiv       |
 |  als Hilfsverb|  ich werde dich bald besuchen | Future 1     |
@@ -71,13 +72,13 @@
 
 ### Strong Verbs
 
-|             |  sprechen | lesen | treffen | essen |
-|-------------|-----------|-------|---------|-------|
-| ich         |  spreche  | lese  | treffe  | esse  |
-| du          |  sprichst | liest | triffst | isst  |
-| er/es/sie   |  spricht  | liest | trifft  | isst  |
-| ihr         |  sprecht  | lest  | trefft  | esst  |
-| wir/sie/Sie |  sprechen | lesen | treffen | essen |
+|             |  sprechen | lesen | treffen | essen |helfen |
+|-------------|-----------|-------|---------|-------|-------|
+| ich         |  spreche  | lese  | treffe  | esse  |helfe  |
+| du          |  sprichst | liest | triffst | isst  |hilfst |
+| er/es/sie   |  spricht  | liest | trifft  | isst  |hilft  |
+| ihr         |  sprecht  | lest  | trefft  | esst  |heflt  |
+| wir/sie/Sie |  sprechen | lesen | treffen | essen |helfen |
 
 ### Verbs Perfect 1 (haben - No movement)
 

@@ -58,3 +58,13 @@
 ### gegenüber
 
 * ich habe *dem Leben gegenüber* eine positive Einstellung.
+
+## Dativ Case - Verbs
+
+Pronoun Nominative| Verb    | Pronoun Dativ
+------------------|---------|---------
+ Du               | gehört  | mir
+ Ich              | gefällt | dir
+ Ich              | hilft   | ihm
+ Ich              | danke   | ihr
+ Ich              | schicke | ihm
