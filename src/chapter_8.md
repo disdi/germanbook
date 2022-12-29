@@ -1,112 +1,51 @@
 # Chapter 8
 
-## Verbs
+## Prepostitionen
 
-### sein-haben-werden  
+### Temporal Prepostitionen
 
-#### Formen
+| Prepostition| Zeit                         | Bispeil                     |
+|-------------|------------------------------|-----------------------------|
+| an   (Dat)  |  Wochenende                  | am Deinstag / am Abend      |
+| ab          |  Uhrzeit  (jetzt -> drei Uhr)| ab drei Uhr                 |
+| um          |  Uhrzeit                     | um drei Uhr (x drei Uhr)    |
+| in   (Dat)  |  (jetzt -> Zeitpunkt Zukunft)| in der Nacht/im Juli/Summer |
+| von/bis     |  Uhrzeit                     | von 9 Uhr bis 10 Uhr        |
+| vor  (Dat)  |  before Zeitpunkt            | von dem Kurs                |
+| nach (Dat)  |  After Zeitpunkt             | nach dem Kurs               |
+| für  (Akk)  |  Zeitspanne                  | für zwei Wochen             |
 
-| Prasens  |              |  sein   | haben  |  werden |
-|----------|--------------|---------|--------|---------|
-|          |   ich        |   bin   |  habe  |  werde  |
-|          |   du         |   bist  |  hast  |  wirst  |
-|          | er,sie,es    |   ist   |  hat   |  wird   |
-|          |   ihr        |   seid  |  habt  |  werdet |
-|          | wir/sie,Sie  |   sind  |  haben |  werden |
+### Modal Prepostitionen
 
-| Präteritum |             |  sein   | haben    |  werden  |
-|------------|-------------|---------|----------|----------|
-|            |   ich       |   war   |  hatte   |  wurde   |
-|            |   du        |   warst |  hattest |  wurdest |
-|            | er,sie,es   |   war   |  hatte   |  wurde   |
-|            |   ihr       |   wart  |  hattet  |  wurdet  |
-|            | wir/sie,Sie |   waren |  hatten  |  wurden  |
+| Prepostition| Platz| Bispeil               |
+|-------------|------|-----------------------|
+| mit   (Dat) |  Wie | Ich fahre mit dem Taxi|
+| ohne  (Akk) |      |                       |
 
-| Perfect  |            |  sein             |  haben           |  werden           |
-|----------|------------|-------------------|------------------|-------------------|
-|          |   ich      |   bin ... gewesen |  habe ... gehabt |  bin ... geworden |
+### Lokal Prepostitionen
 
-| PlusqaumPerfekt |             |  sein             | haben             |  werden           |
-|-----------------|-------------|-------------------|-------------------|-------------------|
-|                 |   ich       |   war ... gewesen |  hatte ... gehabt |  war ... geworden |
+| Prepostition| Platz  | Bispeil              |
+|-------------|--------|----------------------|
+| aus         |  Woher | Ich komme aus Berlin |
+| in   (Akk)  |  Wo    | Ich wohne in Berlin  |
+| nach        |  Wohin | Ich gehe nach Berlin |
+| bei  (Dat)  |  Wo    | Ich bin beim Training|
+| zu   (Dat)  |  Wohin | Ich gehe zum Arzt    |
 
-#### Benutzen
+#### Akkusativ
 
-|  sein          |  satz                        |  +              |
-|----------------|------------------------------|-----------------|
-|  als Vollverb  |  ich bin Mude                | Adjektiv        |
-|  als Vollverb  |  ich bin Artzin              |  Nomen          |
-|  als Vollverb  |  Die Tür ist gescholssen     | Partizip II     |
-|  als Hilfsverb |  ich bin gestern angekommen  | Perfect         |
-|  als Hilfsverb |  ich war gestern angekommen  | PlusqaumPerfekt |
-|  als Modelverb |  Es ist noch viel zu tun     |                 |
+| Prepostition     | Platz  | Bispeil                       |  Verb   |
+|------------------|--------|-------------------------------|---------|
+| auf/unter/nehmen |  Wohin | Ich legt es auf den Tisch     |  legen  |
+| an               |  Wohin | Ich stelle es aus den Tisch   |  stellen|
+| in               |  Wohin | Ich stecke es in die Geldbörse|  stecken|
+| an               |  Wohin | Ich hängen es an die Wand     |  hängen |
 
-|  haben         |      satz                   |  +             |
-|----------------|-----------------------------|----------------|
-|  als Vollverb  |  ich habe Hunger            |  Nomen         |
-|  als Hilfsverb |  ich habe ihn gefragt       |  Perfekt       |
-|  als Hilfsverb |  ich habe ihn gefragt       | PlusqaumPerfekt|
-|  als Modelverb |  ich have noch viel zu tun  |                |
+#### Dativ
 
-|  werden       |  satz                         |  +           |
-|---------------|-------------------------------|--------------|
-|  als Vollverb |  ich werde Artzin             |  Nomen       |
-|  als Vollverb |  ich will Artzin werden       |  Nomen       |
-|  als Vollverb |  ich werde ungeduldig         |  Adjektiv    |
-|  als Hilfsverb|  Hier wird eine museum gebaut | Passiv       |
-|  als Hilfsverb|  ich werde dich bald besuchen | Future 1     |
-|  als Hilfsverb|  ich würde jetzt gern schlafen| Konjunktiv II|
-|  als Modelverb|  Es wird krank Sein           |              |
-
-### Weak Verbs
-
-#### lachen/lernen
-
-|                |   Prasens|  Prateritum|
-|----------------|----------|------------|
-|    ich         |   -e     |    -te     |
-|    du          |   -st    |    -test   |
-|    er/es/sie   |   -t     |    -te     |
-|    ihr         |   -t     |    -tet    |
-|    wir/sie/Sie |   -en    |    -ten    |
-
-### Strong Verbs
-
-|             |  sprechen | lesen | treffen | essen |helfen |
-|-------------|-----------|-------|---------|-------|-------|
-| ich         |  spreche  | lese  | treffe  | esse  |helfe  |
-| du          |  sprichst | liest | triffst | isst  |hilfst |
-| er/es/sie   |  spricht  | liest | trifft  | isst  |hilft  |
-| ihr         |  sprecht  | lest  | trefft  | esst  |heflt  |
-| wir/sie/Sie |  sprechen | lesen | treffen | essen |helfen |
-
-### Verbs Perfect 1 (haben - No movement)
-
-| ge-t       |  -t          |ge-n        |trennbar      |
-|------------|--------------|------------|--------------|
-| gelernt    | repariert    |gelesen     |angerufen     |
-| gemacht    | trainiert    |geschlafen  |aufgeräumt    |
-| gehort     | telephoniert |gesehen     |eingekauft    |
-| gespielt   | verkauft     |getrunken   |eingeladen    |
-| gefragt    | verdient     |gegeben     |ferngesehen   |
-| gesagt     | besucht      |gegessen    |eingeschlafen |
-| gearbeitet | fotografiert |geschrieben |              |
-
-### Verbs Perfect 1 (sein - movement)
-
-| ge-n   | trennbar    |
-|--------|-------------|
-|gekommen| angekommen  |
-|gefahren| abgefahren  |
-|gegangen| eingesteigen|
-|geflohen| aufgewachsen|
-
-### Model Verbs
-
-|             |  können | müssen | wollen | möchten  | dürfen | sollen |
-|-------------|---------|--------|--------|----------|--------|--------|
-| ich         |  kann   | muss   | will   | möchte   | darf   | soll   |
-| du          |  kannst | musst  | willst | möchtest | darfst | sollst |
-| er/es/sie   |  kann   | muss   | will   | möchte   | darf   | soll   |
-| ihr         |  könnt  | müsst  | wollt  | möchtet  | dürft  | sollt  |
-| wir/sie/Sie |  können | müssen | wollen | möchten  | dürfen | sollen |
+| Prepostition    | Platz| Bispeil                |  Verb   |
+|-----------------|------|------------------------|---------|
+| auf/unter/nehmen|  Wo  | Es liegen auf dem Tisch|  liegen |
+| an              |  Wo  | Es stehen an der Ecke  |  stehen |
+| in              |  Wo  | Es steckte im Schrank  |  stecken|
+| an              |  Wo  | Es hängen an die Wand  |  hängen |

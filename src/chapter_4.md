@@ -1,52 +1,69 @@
 # Chapter 4
 
-## Accusative Case - Articles
+## Pronouns
 
-### Masculine
+|  Nominative| Accusative|   Dative  | Possessive|
+|------------|-----------|-----------|-----------|
+|    ich     |   mich    |    mir    |  mein     |
+|    du      |   dich    |    dir    |  dein     |
+|    er      |   ihn     |    ihm    |  sein     |
+|    es      |   es      |    ihm    |  sein     |
+|    sie     |   sie     |    ihr    |  ihr      |
+|    wir     |   uns     |    uns    |  unser    |
+|    ihr     |   euch    |    euch   |  euer     |
+|    sie     |   sie     |    ihnen  |  ihr      |
+|    Sie     |   Sie     |    Ihnen  |  Ihr      |
 
-* Ich fahre den Wagen.
-* Ich fahre einen Wagen.
-* Ich fahre keinen Wagen.
+### Ich
 
-### Feminine
+* Accusative - Du sieht mich.
+* Dative - Du gibt es mir.
+* Possessive - Es ist mein Haus.
 
-* Ich kaufe die Uhr.
-* Ich kaufe eine Uhr.
-* Ich kaufe kein Uhr.
+### Du
 
-### Neutral
+* Accusative - Ich sehe dich.
+* Dative - Ich gebe es dir.
+* Possessive - Es ist dein Haus.
 
-* Ich lese das Buch.
-* Ich lese ein Buch.
-* Ich lese kein Buch.
+### Er
 
-### Plural
+* Accusative - Ich sehe ihn.
+* Dative - Ich gebe ihm dies.
+* Possessive - Es ist sein Haus.
 
-* Ich lese die Bücher.
-* Ich lese keine Bücher.
+### Es
 
-## Accusative Case - Prepositions
+* Accusative - Ich sehe es.
+* Dative - Ich gebe ihm dies.
+* Possessive - Es ist sein Haus.
 
-### Durch
+### sie (female)
 
-* Ich gehe *durch den Park*.
+* Accusative - Ich sehe sie.
+* Dative - Ich gebe ihr dies.
+* Possessive - Es ist ihr Haus.
 
-### Für
+### Wir
 
-* Ich kaufe essen *für meinen Vater*.
+* Accusative - Ich sehe uns.
+* Dative - Ich gebe uns dies.
+* Possessive - Es ist unser Haus.
 
-### Ohne
+### ihr
 
-* Ich reise *ohne meinen Wagen*.
+* Accusative - Ich sehe euch.
+* Dative - Ich gebe euch dies.
+* Possessive - Es ist euer Haus.
 
-### Gegen
+### sie (they)
 
-* Der Wagon fährt *gegen ein Haus*.
+* Accusative - Ich sehe sie.
+* Dative - Ich gebe ihnen dies.
+* Possessive - Es ist ihr Haus.
 
-### Um
+### Sie
 
-* Ich macht nichts *um die Umwelt*.
-
-### Entlang
-
-* Ich gehe  *den Weg entlang*.
+* Accusative - Ich sehe Sie.
+* Dative - Ich gebe Ihnen dies.
+* Possessive - Es ist Ihr Haus.

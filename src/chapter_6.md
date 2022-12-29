@@ -1,39 +1,41 @@
 # Chapter 6
 
-## Genitiv Case
+## Komparation
 
-Ottos Garten = der Garten von Otto
+Positiv| Komparativ| Superlativ
+-------|-----------|---------
+ gut   | besser    | am besten
+ gern  | lieber    | am liebsten
+ viel  | mehr      | am meisten
+ lustig| lustiger  | am lustigen
+ alt   | älter     | am ältesten
+ groß  | größer    | am größsten
+ klug  | klüger    | am klügsten
 
-### Masculine
+### Usage
 
-* Es ist das Auto des Vater.
+* wie
+Ich mag sie genauso gern wie Rosa.
 
-### Feminine
+* als
+Ich mag sie besser als Rosa.
 
-* Es ist das Auto der Mutter.
+## Declension of Adjectives
 
-### Neutral
+### Strong (none or a)
 
-* Es ist das Auto des Kind.
+|           | masculine | feminine| neutral|
+|-----------|-----------|---------|--------|
+| Nominative| er        | e       | es     |
+| Accusative| en        | e       | es     |
+| Dative    | em        | er      | em     |
+| Genitive  | en        | er      | en     |
 
-### Plural
+### Weak (the)
 
-* Es ist das Auto der Kinder.
-
-## Genitiv Case - Prepositions
-
-### anstatt
-
-* Anstatt seinem Vater kam seiner Mutter.
-
-### trotz
-
-* Trotz des Staus kamen wir rechtzeitig an.
-
-### wahrend
-
-* Wir sprechen nicht während des Essen.
-
-### wegen
-
-* Er arbeitet nicht wegen der Krankheit.
+|           | masculine| feminine| neutral|
+|-----------|----------|---------|--------|
+| Nominative| er       | e       | e      |
+| Accusative| en       | e       | e      |
+| Dative    | em       | en      | en     |
+| Genitive  | es       | en      | en     |

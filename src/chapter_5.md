@@ -1,70 +1,112 @@
 # Chapter 5
 
-## Dativ Case - Articles
+## Verbs
 
-### Masculine
+### sein-haben-werden  
 
-* Ich schicke dem Vater nichts.
-* Ich schicke einem Vater nichts.
-* Ich schicke keinem Vater nichts.
+#### Formen
 
-### Feminine
+| Prasens  |              |  sein   | haben  |  werden |
+|----------|--------------|---------|--------|---------|
+|          |   ich        |   bin   |  habe  |  werde  |
+|          |   du         |   bist  |  hast  |  wirst  |
+|          | er,sie,es    |   ist   |  hat   |  wird   |
+|          |   ihr        |   seid  |  habt  |  werdet |
+|          | wir/sie,Sie  |   sind  |  haben |  werden |
 
-* Ich schicke der Mutter nichts.
-* Ich schicke einer Mutter nichts.
-* Ich schicke keiner Mutter nichts.
+| Präteritum |             |  sein   | haben    |  werden  |
+|------------|-------------|---------|----------|----------|
+|            |   ich       |   war   |  hatte   |  wurde   |
+|            |   du        |   warst |  hattest |  wurdest |
+|            | er,sie,es   |   war   |  hatte   |  wurde   |
+|            |   ihr       |   wart  |  hattet  |  wurdet  |
+|            | wir/sie,Sie |   waren |  hatten  |  wurden  |
 
-### Neutral
+| Perfect  |            |  sein             |  haben           |  werden           |
+|----------|------------|-------------------|------------------|-------------------|
+|          |   ich      |   bin ... gewesen |  habe ... gehabt |  bin ... geworden |
 
-* Ich schicke dem Kind nichts.
-* Ich schicke einem Kind nichts.
-* Ich schicke keinem Kind nichts.
+| PlusqaumPerfekt |             |  sein             | haben             |  werden           |
+|-----------------|-------------|-------------------|-------------------|-------------------|
+|                 |   ich       |   war ... gewesen |  hatte ... gehabt |  war ... geworden |
 
-### Plural
+#### Benutzen
 
-* Ich schicke den Kinder nichts.
-* Ich schicke keinen Kinder nichts
+|  sein          |  satz                        |  +              |
+|----------------|------------------------------|-----------------|
+|  als Vollverb  |  ich bin Mude                | Adjektiv        |
+|  als Vollverb  |  ich bin Artzin              |  Nomen          |
+|  als Vollverb  |  Die Tür ist gescholssen     | Partizip II     |
+|  als Hilfsverb |  ich bin gestern angekommen  | Perfect         |
+|  als Hilfsverb |  ich war gestern angekommen  | PlusqaumPerfekt |
+|  als Modelverb |  Es ist noch viel zu tun     |                 |
 
-## Dativ Case - Prepositions
+|  haben         |      satz                   |  +             |
+|----------------|-----------------------------|----------------|
+|  als Vollverb  |  ich habe Hunger            |  Nomen         |
+|  als Hilfsverb |  ich habe ihn gefragt       |  Perfekt       |
+|  als Hilfsverb |  ich habe ihn gefragt       | PlusqaumPerfekt|
+|  als Modelverb |  ich have noch viel zu tun  |                |
 
-### aus
+|  werden       |  satz                         |  +           |
+|---------------|-------------------------------|--------------|
+|  als Vollverb |  ich werde Artzin             |  Nomen       |
+|  als Vollverb |  ich will Artzin werden       |  Nomen       |
+|  als Vollverb |  ich werde ungeduldig         |  Adjektiv    |
+|  als Hilfsverb|  Hier wird eine museum gebaut | Passiv       |
+|  als Hilfsverb|  ich werde dich bald besuchen | Future 1     |
+|  als Hilfsverb|  ich würde jetzt gern schlafen| Konjunktiv II|
+|  als Modelverb|  Es wird krank Sein           |              |
 
-* Ich gehe *aus dem Haus*.
+### Weak Verbs
 
-### bei
+#### lachen/lernen
 
-* Mein Wagon ist *bei meinem Haus*.
+|                |   Prasens|  Prateritum|
+|----------------|----------|------------|
+|    ich         |   -e     |    -te     |
+|    du          |   -st    |    -test   |
+|    er/es/sie   |   -t     |    -te     |
+|    ihr         |   -t     |    -tet    |
+|    wir/sie/Sie |   -en    |    -ten    |
 
-### mit
+### Strong Verbs
 
-* Ich fahre *mit dem Auto*.
+|             |  sprechen | lesen | treffen | essen |helfen |
+|-------------|-----------|-------|---------|-------|-------|
+| ich         |  spreche  | lese  | treffe  | esse  |helfe  |
+| du          |  sprichst | liest | triffst | isst  |hilfst |
+| er/es/sie   |  spricht  | liest | trifft  | isst  |hilft  |
+| ihr         |  sprecht  | lest  | trefft  | esst  |heflt  |
+| wir/sie/Sie |  sprechen | lesen | treffen | essen |helfen |
 
-### nach
+### Verbs Perfect 1 (haben - No movement)
 
-* Ich schlafe *nach der Arbeit*.
+| ge-t       |  -t          |ge-n        |trennbar      |
+|------------|--------------|------------|--------------|
+| gelernt    | repariert    |gelesen     |angerufen     |
+| gemacht    | trainiert    |geschlafen  |aufgeräumt    |
+| gehort     | telephoniert |gesehen     |eingekauft    |
+| gespielt   | verkauft     |getrunken   |eingeladen    |
+| gefragt    | verdient     |gegeben     |ferngesehen   |
+| gesagt     | besucht      |gegessen    |eingeschlafen |
+| gearbeitet | fotografiert |geschrieben |              |
 
-### seit
+### Verbs Perfect 1 (sein - movement)
 
-* Ich lebe *seit* drei jahre in *deisem Haus*.
+| ge-n   | trennbar    |
+|--------|-------------|
+|gekommen| angekommen  |
+|gefahren| abgefahren  |
+|gegangen| eingesteigen|
+|geflohen| aufgewachsen|
 
-### von
+### Model Verbs
 
-* Ich bekomme einen Brief *von der Arbeit*.
-
-### zu
-
-* Ich werde *zu meinem Geburtstag* eine Feier machen.
-
-### gegenüber
-
-* ich habe *dem Leben gegenüber* eine positive Einstellung.
-
-## Dativ Case - Verbs
-
-Pronoun Nominative| Verb    | Pronoun Dativ
-------------------|---------|---------
- Du               | gehört  | mir
- Ich              | gefällt | dir
- Ich              | hilft   | ihm
- Ich              | danke   | ihr
- Ich              | schicke | ihm
+|             |  können | müssen | wollen | möchten  | dürfen | sollen |
+|-------------|---------|--------|--------|----------|--------|--------|
+| ich         |  kann   | muss   | will   | möchte   | darf   | soll   |
+| du          |  kannst | musst  | willst | möchtest | darfst | sollst |
+| er/es/sie   |  kann   | muss   | will   | möchte   | darf   | soll   |
+| ihr         |  könnt  | müsst  | wollt  | möchtet  | dürft  | sollt  |
+| wir/sie/Sie |  können | müssen | wollen | möchten  | dürfen | sollen |
