@@ -3,6 +3,7 @@
 ## Genitiv Case - Articles
 
 Ottos Garten = der Garten von Otto
+Annas Mutter = die Mutter von Anna
 
 ---
 

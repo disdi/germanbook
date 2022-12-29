@@ -40,7 +40,24 @@
 
 ---
 
-#### Akkusativ
+#### With Verbs
+
+Wo + Dativ (lying)| Wohin + Akkusativ (move)|
+------------------|-------------------------|
+ liegen           | legen                   |
+ stehen           | stellen                 |
+ stecken          | stecken                 |
+ hängen           | hängen                  |
+
+> **Preposition used** - auf, neben, an hinter, in uber, unter, vor, zwischen
+
+![Position of object](Lokale_Prapositionen.jpeg)
+
+Der Vogel + *verb* + *preposition* + Akkudative/Dativ + Box.
+
+---
+
+##### Akkusativ
 
 | Prepostition     | Platz  | Bispeil                       |  Verb   |
 |------------------|--------|-------------------------------|---------|
@@ -51,7 +68,7 @@
 
 ---
 
-#### Dativ
+##### Dativ
 
 | Prepostition    | Platz| Bispeil                |  Verb   |
 |-----------------|------|------------------------|---------|
