@@ -2,11 +2,15 @@
 
 ## Dativ Case - Articles
 
+---
+
 ### Masculine
 
 * Ich schicke dem Vater nichts.
 * Ich schicke einem Vater nichts.
 * Ich schicke keinem Vater nichts.
+
+---
 
 ### Feminine
 
@@ -14,18 +18,26 @@
 * Ich schicke einer Mutter nichts.
 * Ich schicke keiner Mutter nichts.
 
+---
+
 ### Neutral
 
 * Ich schicke dem Kind nichts.
 * Ich schicke einem Kind nichts.
 * Ich schicke keinem Kind nichts.
 
+---
+
 ### Plural
 
 * Ich schicke den Kinder nichts.
 * Ich schicke keinen Kinder nichts
 
+---
+
 ## Dativ Case - Prepositions
+
+---
 
 ### aus
 
@@ -59,7 +71,11 @@
 
 * ich habe *dem Leben gegenüber* eine positive Einstellung.
 
+---
+
 ## Dativ Case - Verbs
+
+---
 
 Pronoun Nominative| Verb    | Pronoun Dativ
 ------------------|---------|---------
@@ -68,3 +84,5 @@ Pronoun Nominative| Verb    | Pronoun Dativ
  Ich              | hilft   | ihm
  Ich              | danke   | ihr
  Ich              | schicke | ihm
+
+---

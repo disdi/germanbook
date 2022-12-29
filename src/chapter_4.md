@@ -1,5 +1,7 @@
 # Chapter 4
 
+---
+
 ## Pronouns
 
 |  Nominative| Accusative|   Dative  | Possessive|
@@ -14,11 +16,15 @@
 |    sie     |   sie     |    ihnen  |  ihr      |
 |    Sie     |   Sie     |    Ihnen  |  Ihr      |
 
+---
+
 ### Ich
 
 * Accusative - Du sieht mich.
 * Dative - Du gibt es mir.
 * Possessive - Es ist mein Haus.
+
+---
 
 ### Du
 
@@ -26,11 +32,15 @@
 * Dative - Ich gebe es dir.
 * Possessive - Es ist dein Haus.
 
+---
+
 ### Er
 
 * Accusative - Ich sehe ihn.
 * Dative - Ich gebe ihm dies.
 * Possessive - Es ist sein Haus.
+
+---
 
 ### Es
 
@@ -38,11 +48,15 @@
 * Dative - Ich gebe ihm dies.
 * Possessive - Es ist sein Haus.
 
+---
+
 ### sie (female)
 
 * Accusative - Ich sehe sie.
 * Dative - Ich gebe ihr dies.
 * Possessive - Es ist ihr Haus.
+
+---
 
 ### Wir
 
@@ -50,11 +64,15 @@
 * Dative - Ich gebe uns dies.
 * Possessive - Es ist unser Haus.
 
+---
+
 ### ihr
 
 * Accusative - Ich sehe euch.
 * Dative - Ich gebe euch dies.
 * Possessive - Es ist euer Haus.
+
+---
 
 ### sie (they)
 
@@ -62,8 +80,12 @@
 * Dative - Ich gebe ihnen dies.
 * Possessive - Es ist ihr Haus.
 
+---
+
 ### Sie
 
 * Accusative - Ich sehe Sie.
 * Dative - Ich gebe Ihnen dies.
 * Possessive - Es ist Ihr Haus.
+
+---

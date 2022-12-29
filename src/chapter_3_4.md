@@ -4,6 +4,8 @@
 
 Ottos Garten = der Garten von Otto
 
+---
+
 ### Masculine
 
 * Es ist das Auto des Vater.
@@ -20,7 +22,11 @@ Ottos Garten = der Garten von Otto
 
 * Es ist das Auto der Kinder.
 
+---
+
 ## Genitiv Case - Prepositions
+
+---
 
 ### anstatt
 
@@ -37,3 +43,5 @@ Ottos Garten = der Garten von Otto
 ### wegen
 
 * Er arbeitet nicht wegen der Krankheit.
+
+---

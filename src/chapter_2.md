@@ -9,6 +9,8 @@
 | Dative    |    dem   |   der   |  dem    |  den    |
 | Genitive  |    des   |   der   |  des    |  der    |
 
+---
+
 ## Declension of "a, an" Articles
 
 |           | masculine| feminine| neutral|
@@ -17,3 +19,5 @@
 | Accusative| einen    | eine    | ein    |
 | Dative    | einem    | einer   | einem  |
 | Genitive  | eines    | einer   | eines  |
+
+---

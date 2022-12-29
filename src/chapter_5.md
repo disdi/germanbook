@@ -6,6 +6,8 @@
 
 #### Formen
 
+---
+
 | Prasens  |              |  sein   | haben  |  werden |
 |----------|--------------|---------|--------|---------|
 |          |   ich        |   bin   |  habe  |  werde  |
@@ -13,6 +15,8 @@
 |          | er,sie,es    |   ist   |  hat   |  wird   |
 |          |   ihr        |   seid  |  habt  |  werdet |
 |          | wir/sie,Sie  |   sind  |  haben |  werden |
+
+---
 
 | Präteritum |             |  sein   | haben    |  werden  |
 |------------|-------------|---------|----------|----------|
@@ -22,15 +26,21 @@
 |            |   ihr       |   wart  |  hattet  |  wurdet  |
 |            | wir/sie,Sie |   waren |  hatten  |  wurden  |
 
+---
+
 | Perfect  |            |  sein             |  haben           |  werden           |
 |----------|------------|-------------------|------------------|-------------------|
 |          |   ich      |   bin ... gewesen |  habe ... gehabt |  bin ... geworden |
+
+---
 
 | PlusqaumPerfekt |             |  sein             | haben             |  werden           |
 |-----------------|-------------|-------------------|-------------------|-------------------|
 |                 |   ich       |   war ... gewesen |  hatte ... gehabt |  war ... geworden |
 
 #### Benutzen
+
+---
 
 |  sein          |  satz                        |  +              |
 |----------------|------------------------------|-----------------|
@@ -41,12 +51,16 @@
 |  als Hilfsverb |  ich war gestern angekommen  | PlusqaumPerfekt |
 |  als Modelverb |  Es ist noch viel zu tun     |                 |
 
+---
+
 |  haben         |      satz                   |  +             |
 |----------------|-----------------------------|----------------|
 |  als Vollverb  |  ich habe Hunger            |  Nomen         |
 |  als Hilfsverb |  ich habe ihn gefragt       |  Perfekt       |
 |  als Hilfsverb |  ich habe ihn gefragt       | PlusqaumPerfekt|
 |  als Modelverb |  ich have noch viel zu tun  |                |
+
+---
 
 |  werden       |  satz                         |  +           |
 |---------------|-------------------------------|--------------|

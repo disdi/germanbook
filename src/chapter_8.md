@@ -2,6 +2,8 @@
 
 ## Prepostitionen
 
+---
+
 ### Temporal Prepostitionen
 
 | Prepostition| Zeit                         | Bispeil                     |
@@ -15,12 +17,16 @@
 | nach (Dat)  |  After Zeitpunkt             | nach dem Kurs               |
 | für  (Akk)  |  Zeitspanne                  | für zwei Wochen             |
 
+---
+
 ### Modal Prepostitionen
 
 | Prepostition| Platz| Bispeil               |
 |-------------|------|-----------------------|
 | mit   (Dat) |  Wie | Ich fahre mit dem Taxi|
 | ohne  (Akk) |      |                       |
+
+---
 
 ### Lokal Prepostitionen
 
@@ -32,6 +38,8 @@
 | bei  (Dat)  |  Wo    | Ich bin beim Training|
 | zu   (Dat)  |  Wohin | Ich gehe zum Arzt    |
 
+---
+
 #### Akkusativ
 
 | Prepostition     | Platz  | Bispeil                       |  Verb   |
@@ -41,6 +49,8 @@
 | in               |  Wohin | Ich stecke es in die Geldbörse|  stecken|
 | an               |  Wohin | Ich hängen es an die Wand     |  hängen |
 
+---
+
 #### Dativ
 
 | Prepostition    | Platz| Bispeil                |  Verb   |
@@ -49,3 +59,5 @@
 | an              |  Wo  | Es stehen an der Ecke  |  stehen |
 | in              |  Wo  | Es steckte im Schrank  |  stecken|
 | an              |  Wo  | Es hängen an die Wand  |  hängen |
+
+---

@@ -2,6 +2,8 @@
 
 ## Komparation
 
+---
+
 Positiv| Komparativ| Superlativ
 -------|-----------|---------
  gut   | besser    | am besten
@@ -11,6 +13,8 @@ Positiv| Komparativ| Superlativ
  alt   | älter     | am ältesten
  groß  | größer    | am größsten
  klug  | klüger    | am klügsten
+
+---
 
 ### Usage
 
@@ -22,6 +26,8 @@ Ich mag sie besser als Rosa.
 
 ## Declension of Adjectives
 
+---
+
 ### Strong (none or a)
 
 |           | masculine | feminine| neutral|
@@ -31,6 +37,8 @@ Ich mag sie besser als Rosa.
 | Dative    | em        | er      | em     |
 | Genitive  | en        | er      | en     |
 
+---
+
 ### Weak (the)
 
 |           | masculine| feminine| neutral|
@@ -39,3 +47,5 @@ Ich mag sie besser als Rosa.
 | Accusative| en       | e       | e      |
 | Dative    | em       | en      | en     |
 | Genitive  | es       | en      | en     |
+
+---
