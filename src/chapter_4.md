@@ -89,3 +89,25 @@
 * Possessive - Es ist Ihr Haus.
 
 ---
+
+## Indefinitpronomen
+
+|           | masculine| feminine| neutral|
+|-----------|----------|---------|--------|
+| Nominative| einer    | eine    | eines  |
+| Accusative| einen    | eine    | eines  |
+| Dative    | einem    | einer   | einem  |
+| Genitive  | eines    | einer   | eines  |
+
+Wo ist den Espresso/das Messer/die Portion ? (Ak)
+Wer mochte noch einen Espresso/ein Messer/eine Portion ? (Ak)
+
+             | Hier ist (No.)| Ich möchte (Ak)
+-------------|---------------|---------
+ Der Espresso| einer         | einen
+ Das Messer  | eines         | eines
+ Die Portion | eine          | eine
+
+> **Same for Kein**
+
+---
