@@ -1,5 +1,25 @@
-# Sentence
+# Chapter 5
 
-## denn
+## Conjunctions
 
-## weil
+---
+
+### Coordinating Conjunctions
+
+---
+
+#### denn
+
+Ich komme nicht Morgen, denn ich habe keine Zeit.
+
+---
+
+### Causal Conjunctions
+
+---
+
+#### weil
+
+Ich komme nicht Morgen, weil ich keine Zeit habe.
+
+---

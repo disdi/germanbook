@@ -53,12 +53,12 @@
 
 ---
 
-|  haben         |      satz                   |  +             |
-|----------------|-----------------------------|----------------|
-|  als Vollverb  |  ich habe Hunger            |  Nomen         |
-|  als Hilfsverb |  ich habe ihn gefragt       |  Perfekt       |
-|  als Hilfsverb |  ich habe ihn gefragt       | PlusqaumPerfekt|
-|  als Modelverb |  ich have noch viel zu tun  |                |
+|  haben         |      satz                 |  +             |
+|----------------|---------------------------|----------------|
+|  als Vollverb  |  ich habe Hunger          |  Nomen         |
+|  als Hilfsverb |  ich habe ihn gefragt     |  Perfekt       |
+|  als Hilfsverb |  ich hatte ihn gefragt    | PlusqaumPerfekt|
+|  als Modelverb |  ich habe noch viel zu tun|                |
 
 ---
 
