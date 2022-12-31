@@ -4,7 +4,7 @@
 
 ---
 
-### Coordinating Conjunctions
+### Coordinating Conjunctions (No change in verb positon)
 
 ---
 
@@ -14,12 +14,24 @@ Ich komme nicht Morgen, denn ich habe keine Zeit.
 
 ---
 
-### Causal Conjunctions
+### Subordinate Conjunctions (Verb positon at end in NS)
 
 ---
 
 #### weil
 
-Ich komme nicht Morgen, weil ich keine Zeit habe.
+Ich komme nicht Morgen, weil ich keine Zeit **habe**.
+
+---
+
+#### wenn
+
+Wenn ich keine Zeit **haben**, ich komme nicht Morgen. (NS vor HS)
+
+Ich komme nicht Morgen, wenn ich keine Zeit **haben**. (HS vor NS)
+
+---
+
+#### dass
 
 ---
