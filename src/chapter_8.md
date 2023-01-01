@@ -30,13 +30,14 @@
 
 ### Lokal Prepostitionen
 
-| Prepostition| Platz  | Bispeil              |
-|-------------|--------|----------------------|
-| aus         |  Woher | Ich komme aus Berlin |
-| in   (Akk)  |  Wo    | Ich wohne in Berlin  |
-| nach        |  Wohin | Ich gehe nach Berlin |
-| bei  (Dat)  |  Wo    | Ich bin beim Training|
-| zu   (Dat)  |  Wohin | Ich gehe zum Arzt    |
+| Prepostition| Platz  | Bispeil                  |
+|-------------|--------|--------------------------|
+| aus         |  Woher | Ich komme aus dem Auto   |
+| von         |  Woher | Ich komme von dem Frisuer|
+| in          |  Wo    | Ich wohne in Berlin      |
+| bei         |  Wo    | Ich bin bei dem Training |
+| nach        |  Wohin | Ich gehe nach Berlin     |
+| zu          |  Wohin | Ich gehe zu dem Arzt     |
 
 ---
 
@@ -47,7 +48,7 @@ Wo + Dativ (lying)| Wohin + Akkusativ (move)|
  liegen           | legen                   |
  stehen           | stellen                 |
  stecken          | stecken                 |
- hängen           | hängen                  |
+ hangen           | hangen                  |
 
 > **Preposition used** - auf, neben, an hinter, in uber, unter, vor, zwischen
 

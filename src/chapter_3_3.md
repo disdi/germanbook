@@ -39,6 +39,10 @@
 
 ---
 
+### an
+
+* Ich komme an dem See vorbei.
+
 ### aus
 
 * Ich gehe *aus dem Haus*.

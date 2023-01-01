@@ -39,6 +39,10 @@
 
 ---
 
+### In
+
+* Ich fahre in das Auto.
+
 ### Durch
 
 * Ich gehe *durch den Park*.

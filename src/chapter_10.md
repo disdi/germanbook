@@ -6,7 +6,7 @@
 
 ---
 
-### würde (Conditional)
+### würde (Conditional) - Wunsch
 
 ---
 
@@ -41,5 +41,13 @@ I would have come.| Ich wäre gekommen.
 ---
 
 ### sollte
+
+Du solltest Detective werden.
+
+---
+
+### könnte - Vorschlag
+
+Du solltest Detective werden.
 
 ---
