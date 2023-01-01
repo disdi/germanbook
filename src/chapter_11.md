@@ -2,14 +2,11 @@
 
 ---
 
-## Reflexive
+## Konjuctive I - Indirect sppech
 
----
-
-### Akkusativ
-
----
-
-### Dativ
+Direct                                 | Indirect
+---------------------------------------|----------
+ She said, "I am writing a letter."    | She said that she was writing a letter.
+ Sie sagte, "Ich schreibe einen Breif."| Sie sagte, dass sie einen Breif sagte.
 
 ---

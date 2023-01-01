@@ -34,4 +34,16 @@ Ich komme nicht Morgen, wenn ich keine Zeit **haben**. (HS vor NS)
 
 #### dass
 
+Beginning        | konjuction                   | Ende
+-----------------|------------------------------|---------
+ Es ist wichtig, | dass du gut in Deutsche      | bist
+ Es ist schon,   | dass du gut in Deutsche      | bist
+ Es tut mir leid,| dass du schlecht in Deutsche | bist
+ Ich bin sicher, | dass du gut in Deutsche      | bist
+ Ich denke,      | dass du gut in Deutsche      | bist
+ Ich meine,      | dass du gut in Deutsche      | bist
+ Ich finde,      | dass du gut in Deutsche      | bist
+ Ich glaube,     | dass du gut in Deutsche      | bist
+ Ich weiß,       | dass du gut in Deutsche      | bist
+
 ---
