@@ -9,3 +9,10 @@ title = "German Book"
 curly-quotes = true
 git-repository-url = "https://github.com/disdi/germanbook"
 site-url = "https://saketsinha.de/germanbook/"
+
+[output.html.fold]
+enable = true
+level = 0
+
+[output.html.playground]
+editable = true
