@@ -1,4 +1,4 @@
-# Chapter 5
+# Chapter 9
 
 ## Conjunctions
 
@@ -25,8 +25,13 @@
 
 #### als/wenn
 
-> **Past -**  Als ich in Berlin ankam, sehe ich dir Mauer.
-> **Future -**  Ich bringe es, wenn ich morgen komme.
+> **Events in past -**
+
+* Als ich in Berlin ankam, sehe ich dir Mauer.
+
+> **Events in future -**  
+
+* Ich bringe es, wenn ich morgen komme.
 
 ---
 
