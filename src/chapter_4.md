@@ -123,8 +123,8 @@ Wer mochte noch einen Espresso/ein Messer/eine Portion ? (Ak)
 
 ### Relativsatz
 
-* Nominative - ein Mann, der gut kochen kann,
-* Akkusativ - der Berliner, den man in Berlin wohnen.
-* Dativ - ein Job, dem er seinen Geld verdient.
+* Nominative - der Mann, der gut kochen kann.
+* Akkusativ - der Mann, den ich kenne.
+* Dativ - der Mann, dem ich helfen musste.
 
 ---

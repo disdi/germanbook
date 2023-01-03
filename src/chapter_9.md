@@ -8,11 +8,25 @@
 
 ---
 
+#### als (as)
+
+* Er hat als Deutsche gesrochen
+
+---
+
 #### als/wie
+
+* Ein Tag wie jeder andere
+* Er is großer als du
+
+> **as big as -** Er is so große wie du
 
 ---
 
 #### als/wenn
+
+> **Past -**  Als ich in Berlin ankam, sehe ich dir Mauer.
+> **Future -**  Ich bringe es, wenn ich morgen komme.
 
 ---
 
@@ -38,7 +52,9 @@ Ich habe keine Zeit, deshalb ich nich Morgen **komme**.
 
 ---
 
-#### obwohl
+#### obwohl (Although)
+
+Obwohl er mein Cousin ist, kann ich nichts für ihm tun.
 
 ---
 
