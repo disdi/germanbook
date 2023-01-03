@@ -24,11 +24,13 @@ I was sure, I would not make it.| Ich war sicher, dass ich nicht machen würde.
 
 English                                    | Deutsch
 -------------------------------------------|----------
-If I had won, I would have gone to America.| Wenn ich gewonned hätte, würde ich nach Amerika gefahren.
+If I had won, I would have gone to America.| Wenn ich gewonned **hätte**, **würde** ich nach Amerika gefahren.
 
 ---
 
 ### wäre (Past) / hätte (Past)
+
+Ich + hätte/wäre + Perfect
 
 English            | Deutsch
 -------------------|----------
@@ -40,7 +42,7 @@ I would have come.| Ich wäre gekommen.
 
 ---
 
-### sollte
+### sollte - Ratschlägen
 
 Du solltest Detective werden.
 
@@ -48,6 +50,6 @@ Du solltest Detective werden.
 
 ### könnte - Vorschlag
 
-Du solltest Detective werden.
+Du könnte Detective werden.
 
 ---

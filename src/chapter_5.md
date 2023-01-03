@@ -108,12 +108,15 @@
 
 ### Verbs Perfect 1 (sein - movement)
 
-| ge-n   | trennbar    |
-|--------|-------------|
-|gekommen| angekommen  |
-|gefahren| abgefahren  |
-|gegangen| eingesteigen|
-|geflohen| aufgewachsen|
+| ge-n    | trennbar     |
+|---------|--------------|
+|gekommen | angekommen   |
+|gefahren | abgefahren   |
+|gegangen | aufgewachsen |
+|geflohen | eingesteigen |
+|gerannt  | aufgesteiegen|
+|gelaufen | aufgestanden |
+|geblieben|              |
 
 ### Model Verbs
 

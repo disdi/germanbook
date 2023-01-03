@@ -60,20 +60,21 @@ Masculine   | Feminine| Neutral
 
 ### -er
 
-Masculine     | Feminine   | Neutral
---------------|------------|---------
- Der Maler    | Die Feder  | Das Ruder
- Der Kleber   | Die Mauer  | Das Kinder
- Der Hamster  | Die Wimper | Das Fenster
- Der Anker    | Die Ampel  | Das Feuer
- Der Hammer   | Die Butter | Das Wasser
- Der Messer   |            |
- Der Tiger    |            |
- Der Koffer   |            |
- Der Finger   |            |
- Der Teller   |            |
- Der Sessel   |            |
- Der Pflaster |            |
+Masculine      | Feminine   | Neutral
+---------------|------------|---------
+ Der Maler     | Die Feder  | Das Ruder
+ Der Kleber    | Die Mauer  | Das Kinder
+ Der Hamster   | Die Wimper | Das Fenster
+ Der Anker     | Die Ampel  | Das Feuer
+ Der Hammer    | Die Butter | Das Wasser
+ Der Messer    |            |
+ Der Tiger     |            |
+ Der Koffer    |            |
+ Der Finger    |            |
+ Der Teller    |            |
+ Der Sessel    |            |
+ Der Pflaster  |            |
+ Der Hinduismus|            |
 
 ---
 
@@ -91,6 +92,13 @@ Masculine  | Feminine | Neutral
 Masculine    | Feminine| Neutral
 -------------|---------|---------
  der Teppich |   X     | X
+
+### -ismus
+
+Masculine       | Feminine| Neutral
+----------------|---------|---------
+ der Hinduismus |   X     | X
+ der Optimismus |         |
 
 > **Mostly adjectives like -lich** wirklich, fröhlich, plötlich, moglich
 

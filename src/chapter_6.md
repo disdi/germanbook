@@ -28,7 +28,7 @@ Ich mag sie besser als Rosa.
 
 ---
 
-### Strong (none or a)
+### Strong (none)
 
 |           | masculine | feminine| neutral|
 |-----------|-----------|---------|--------|
@@ -43,9 +43,20 @@ Ich mag sie besser als Rosa.
 
 |           | masculine| feminine| neutral|
 |-----------|----------|---------|--------|
-| Nominative| er       | e       | e      |
+| Nominative| e        | e       | e      |
 | Accusative| en       | e       | e      |
-| Dative    | em       | en      | en     |
-| Genitive  | es       | en      | en     |
+| Dative    | en       | en      | en     |
+| Genitive  | en       | en      | en     |
+
+---
+
+### Mixed (ein)
+
+|           | masculine| feminine| neutral|
+|-----------|----------|---------|--------|
+| Nominative| er       | e       | es     |
+| Accusative| en       | e       | es     |
+| Dative    | en       | en      | en     |
+| Genitive  | en       | en      | en     |
 
 ---

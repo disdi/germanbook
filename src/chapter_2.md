@@ -9,6 +9,8 @@
 | Dative    |    dem   |   der   |  dem    |  den    |
 | Genitive  |    des   |   der   |  des    |  der    |
 
+> **Applies also to -**  diese-, jede-, manche-, alle-, einige-
+
 ---
 
 ## Declension of "a, an" Articles
@@ -19,5 +21,7 @@
 | Accusative| einen    | eine    | ein    |
 | Dative    | einem    | einer   | einem  |
 | Genitive  | eines    | einer   | eines  |
+
+> **Applies also to -**  irgendien-
 
 ---

@@ -99,6 +99,8 @@
 | Dative    | einem    | einer   | einem  |
 | Genitive  | eines    | einer   | eines  |
 
+> **Same for Deise-, Jede-, Manche-, Einege-, Kein-, Viele-, Wenige-, Irgendwelche-**
+
 Wo ist den Espresso/das Messer/die Portion ? (Ak)
 Wer mochte noch einen Espresso/ein Messer/eine Portion ? (Ak)
 
@@ -107,7 +109,5 @@ Wer mochte noch einen Espresso/ein Messer/eine Portion ? (Ak)
 | Der Espresso| einer         | einen
 | Das Messer  | eines         | eines
 | Die Portion | eine          | eine
-
-> **Same for Kein**
 
 ---
