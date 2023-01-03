@@ -114,7 +114,7 @@ Wer mochte noch einen Espresso/ein Messer/eine Portion ? (Ak)
 
 ## Relativpronomen
 
-            | masculine| feminine| neutral|
+|  Case     | masculine| feminine| neutral|
 |-----------|----------|---------|--------|
 | Nominative| der      | die     | das    |
 | Accusative| den      | die     | das    |
