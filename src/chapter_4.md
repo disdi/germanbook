@@ -111,3 +111,20 @@ Wer mochte noch einen Espresso/ein Messer/eine Portion ? (Ak)
 | Die Portion | eine          | eine
 
 ---
+
+## Relativpronomen
+
+            | masculine| feminine| neutral|
+|-----------|----------|---------|--------|
+| Nominative| der      | die     | das    |
+| Accusative| den      | die     | das    |
+| Dative    | dem      | der     | dem    |
+| Genitive  | dessen   | deren   | dessen |
+
+### Relativsatz
+
+* Nominative - ein Mann, der gut kochen kann,
+* Akkusativ - der Berliner, den man in Berlin wohnen.
+* Dativ - ein Job, dem er seinen Geld verdient.
+
+---

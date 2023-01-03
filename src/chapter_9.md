@@ -10,6 +10,12 @@
 
 #### als/wie
 
+---
+
+#### als/wenn
+
+---
+
 #### denn
 
 Ich komme nicht Morgen, denn ich habe keine Zeit.
@@ -29,6 +35,10 @@ Ich komme nicht Morgen, weil ich keine Zeit **habe**.
 #### deshalb (ISILIYE)
 
 Ich habe keine Zeit, deshalb ich nich Morgen **komme**.
+
+---
+
+#### obwohl
 
 ---
 
