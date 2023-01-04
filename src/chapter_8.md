@@ -48,14 +48,20 @@
 
 ---
 
-#### With Verbs
+#### Wo/Wohin + Verbs + Prepositon
 
-Wo + Dativ (lying)| Wohin + Akkusativ (move)|
-------------------|-------------------------|
- liegen           | legen                   |
- stehen           | stellen                 |
- stecken          | stecken                 |
- hangen           | hangen                  |
+Wo + Dativ verb (lying)| Wohin + Akkusativ verb (move)|
+-----------------------|------------------------------|
+ liegen                | legen                        |
+ stehen                | stellen                      |
+ stecken               | stecken                      |
+ hangen                | hangen                       |
+
+ Wo + Dativ Preposition (lying)| Wohin + Akkusativ Preposition (move)|
+-------------------------------|-------------------------------------|
+ hier                          | hierhin                             |
+ da                            | dahin                               |
+ dort                          | dorthin                             |
 
 > **Preposition used** - auf, neben, an hinter, in uber, unter, vor, zwischen
 

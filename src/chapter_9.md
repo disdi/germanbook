@@ -77,7 +77,7 @@ Obwohl er mein Cousin ist, kann ich nichts für ihm tun.
 
 #### wenn
 
-Wenn ich keine Zeit **haben**, ich komme nicht Morgen. (NS vor HS)
+Wenn ich keine Zeit **haben**, **komme** ich  nicht Morgen. (NS vor HS)
 
 Ich komme nicht Morgen, wenn ich keine Zeit **haben**. (HS vor NS)
 
