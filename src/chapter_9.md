@@ -8,6 +8,18 @@
 
 ---
 
+#### wegen (+ Genetiv)
+
+* Ich bin wirklich in Berlin wegen meines Leben.
+
+---
+
+#### trotz (+ Genetiv) - Inspite of
+
+* Ich bin höfflich trotz des staken Regens.
+
+---
+
 #### als (as)
 
 * Er hat als Deutsche gesrochen

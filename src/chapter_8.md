@@ -6,16 +6,23 @@
 
 ### Temporal Prepostitionen
 
-| Prepostition| Zeit                         | Bispeil                     |
-|-------------|------------------------------|-----------------------------|
-| an   (Dat)  |  Wochenende                  | am Deinstag / am Abend      |
-| ab          |  Uhrzeit  (jetzt -> drei Uhr)| ab drei Uhr                 |
-| um          |  Uhrzeit                     | um drei Uhr (x drei Uhr)    |
-| in   (Dat)  |  (jetzt -> Zeitpunkt Zukunft)| in der Nacht/im Juli/Summer |
-| von/bis     |  Uhrzeit                     | von 9 Uhr bis 10 Uhr        |
-| vor  (Dat)  |  before Zeitpunkt            | von dem Kurs                |
-| nach (Dat)  |  After Zeitpunkt             | nach dem Kurs               |
-| für  (Akk)  |  Zeitspanne                  | für zwei Wochen             |
+| Prepostition   | Zeit                         | Bispeil                               |
+|----------------|------------------------------|---------------------------------------|
+| ab      (Akk)  |  Uhrzeit  (jetzt -> drei Uhr)| ab drei Uhr                           |
+| um      (Akk)  |  Uhrzeit                     | um drei Uhr (x drei Uhr)              |
+| für     (Akk)  |  Zeitspanne                  | fur zwei Wochen                       |
+| von/bis (Akk)  |  Uhrzeit                     | von 9 Uhr bis 10 Uhr                  |
+| in      (Dat)  |  (jetzt -> Zeitpunkt Zukunft)| in der Nacht/im Juli/Summer           |
+| an      (Dat)  |  Wochenende                  | am Deinstag / am Abend                |
+| vor     (Dat)  |  before Zeitpunkt            | von dem Kurs                          |
+| nach    (Dat)  |  After Zeitpunkt             | nach dem Kurs                         |
+| seit    (Dat)  |  in past beginnen            | Seit einer woche, ich trinke Hönig    |
+| ab      (Dat)  |  jetzt beginnen              | Am 1 Januar will ich Hönig trinken    |
+| von/an  (Dat)  |  jetzt beginnen              | Von 1 Januar an will ich Hönig trinken|
+| bei     (Dat)  |  gleichzeitig                | Bei dem Unterricht                    |
+| während   (Gen)|  gleichzeitig                | wahrend des Unterricht (during)       |
+| außerhalb (Gen)|   outside                    | Sie wohnt außerhalb der Stadt         |
+| innerhalb (Gen)|   within                     | Das passiert innerhalb eine woche.    |
 
 ---
 

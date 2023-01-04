@@ -37,7 +37,7 @@ Annas Mutter = die Mutter von Anna
 
 * Trotz des Staus kamen wir rechtzeitig an.
 
-### wahrend
+### während
 
 * Wir sprechen nicht während des Essen.
 

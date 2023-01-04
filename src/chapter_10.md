@@ -18,13 +18,13 @@ I was sure, I would not make it.| Ich war sicher, dass ich nicht machen würde.
 
 ---
 
-#### Wenn condition, consequence
+#### Wenn condition(NS), consequence(HS) - Hypothetical Condition
 
 ---
 
 English                                    | Deutsch
 -------------------------------------------|----------
-If I had won, I would have gone to America.| Wenn ich gewonned **hätte**, **würde** ich nach Amerika gefahren.
+If I had won, I would have gone to America.| Wenn ich gewonnen **hätte**, **würde** ich nach Amerika gefahren.
 
 ---
 
