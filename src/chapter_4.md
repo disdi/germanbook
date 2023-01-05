@@ -101,8 +101,8 @@
 
 > **Same for Deise-, Jede-, Manche-, Einege-, Kein-, Viele-, Wenige-, Irgendwelche-**
 
-Wo ist den Espresso/das Messer/die Portion ? (Ak)
-Wer mochte noch einen Espresso/ein Messer/eine Portion ? (Ak)
+* Wo ist den Espresso/das Messer/die Portion ? (Nom.)
+* Wer mochte noch einen Espresso/ein Messer/eine Portion? (Ak)
 
 |             | Hier ist (No.)| Ich möchte (Ak)
 |-------------|---------------|---------

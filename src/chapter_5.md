@@ -72,6 +72,8 @@
 |  als Hilfsverb|  ich würde jetzt gern schlafen| Konjunktiv II|
 |  als Modelverb|  Es wird krank Sein           |              |
 
+---
+
 ### Weak Verbs
 
 #### lachen/lernen
@@ -84,6 +86,8 @@
 |    ihr         |   -t     |    -tet    |
 |    wir/sie/Sie |   -en    |    -ten    |
 
+---
+
 ### Strong Verbs
 
 |             |  sprechen | lesen | treffen | essen |helfen |
@@ -93,6 +97,8 @@
 | er/es/sie   |  spricht  | liest | trifft  | isst  |hilft  |
 | ihr         |  sprecht  | lest  | trefft  | esst  |heflt  |
 | wir/sie/Sie |  sprechen | lesen | treffen | essen |helfen |
+
+---
 
 ### Verbs Perfect 1 (haben - No movement)
 
@@ -118,6 +124,8 @@
 |gelaufen | aufgestanden |
 |geblieben|              |
 
+---
+
 ### Model Verbs
 
 |             |  können | müssen | wollen | möchten  | dürfen | sollen |
@@ -127,3 +135,5 @@
 | er/es/sie   |  kann   | muss   | will   | möchte   | darf   | soll   |
 | ihr         |  könnt  | müsst  | wollt  | möchtet  | dürft  | sollt  |
 | wir/sie/Sie |  können | müssen | wollen | möchten  | dürfen | sollen |
+
+---

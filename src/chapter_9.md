@@ -71,7 +71,7 @@ Ich habe keine Zeit, deshalb ich nich Morgen **komme**.
 
 #### obwohl (Although)
 
-Obwohl er mein Cousin ist, kann ich nichts für ihm tun.
+Obwohl er mein Cousin ist, kann ich nichts für ihm **tun**.
 
 ---
 
