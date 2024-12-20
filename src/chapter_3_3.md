@@ -46,38 +46,47 @@
 ### an
 
 * Ich komme an dem See vorbei.
+* Ich warte an der Bushhaltstelle.
 
 ### aus
 
 * Ich gehe *aus dem Haus*.
+* Ich komme aus dem Buro.
 
 ### bei
 
 * Mein Wagon ist *bei meinem Haus*.
+* Ich arbeite bei der Firma.
 
 ### mit
 
 * Ich fahre *mit dem Auto*.
+* Ich spreche mit dem Lehrer.
 
 ### nach
 
 * Ich schlafe *nach der Arbeit*.
+* Ich reise nach dem Urlaub zuruck.
 
 ### seit
 
-* Ich lebe *seit* drei jahre in *deisem Haus*.
+* Ich lebe *seit* funf jahre in *deisem Haus*.
+* Ich kenne dir seit der Kinderheit.
 
 ### von
 
 * Ich bekomme einen Brief *von der Arbeit*.
+* Ich erzahle von dem Urlaub.
 
 ### zu
 
+* Ich gehe zu meinem Freund.
 * Ich werde *zu meinem Geburtstag* eine Feier machen.
 
 ### gegenüber
 
-* ich habe *dem Leben gegenüber* eine positive Einstellung.
+* Der Cafe ist genuber dem Park.
+* Ich habe *dem Leben gegenüber* eine positive Einstellung.
 
 ---
 
