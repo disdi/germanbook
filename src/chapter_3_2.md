@@ -46,10 +46,12 @@
 ### In
 
 * Ich fahre in das Auto.
+* Ich gehe in den Garten.
 
 ### Durch
 
 * Ich gehe *durch den Park*.
+* Ich fahre durch die Stadt.
 
 ### Für
 
@@ -57,18 +59,23 @@
 
 ### Ohne
 
-* Ich reise *ohne meinen Wagen*.
+* Ich reise *ohne einen Wagen*.
+* Ich kann ohne Luxus leben.
 
 ### Gegen
 
 * Der Wagon fährt *gegen ein Haus*.
+* Ich bin gegen die neu Regal.
 
 ### Um
 
 * Ich macht nichts *um die Umwelt*.
+* Die Kinder spielen um das Haus.
+* Ich laufe um den See.
 
 ### Entlang
 
 * Ich gehe  *den Weg entlang*.
+* Ich fahre die Straße entlang.
 
 ---
