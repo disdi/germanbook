@@ -24,6 +24,8 @@
 
 ### -el
 
+In German, nouns ending with "-el" are typically Masculine.
+
 Masculine     | Feminine      | Neutral
 --------------|---------------|---------
  Der Esel     | Die Tafel     | Das Segel
@@ -43,6 +45,8 @@ Masculine     | Feminine      | Neutral
 
 ### -en
 
+In German, nouns ending with "-en" are typically Masculine.
+
 Masculine   | Feminine| Neutral
 ------------|---------|---------
  Der Ofen   |         | Das Küken
@@ -59,6 +63,8 @@ Masculine   | Feminine| Neutral
 ---
 
 ### -er
+
+In German, nouns ending with "-er" are typically Masculine.
 
 Masculine      | Feminine   | Neutral
 ---------------|------------|---------
@@ -80,6 +86,8 @@ Masculine      | Feminine   | Neutral
 
 ### -ig
 
+In German, nouns ending with "-ig" are typically Masculine.
+
 Masculine  | Feminine | Neutral
 -----------|----------|---------
  der Honig | X | X
@@ -89,11 +97,15 @@ Masculine  | Feminine | Neutral
 
 ### -ich
 
+In German, nouns ending with "-ich" are typically Masculine.
+
 Masculine    | Feminine| Neutral
 -------------|---------|---------
  der Teppich |   X     | X
 
 ### -ismus
+
+In German, nouns ending with "-ismus" are typically Masculine.
 
 Masculine       | Feminine| Neutral
 ----------------|---------|---------
@@ -106,6 +118,8 @@ Masculine       | Feminine| Neutral
 
 ### -ling
 
+In German, nouns ending with "-ling" are typically Masculine.
+
 Masculine     | Feminine| Neutral
 --------------|---------|---------
  der Lehrling |   X     | X
@@ -114,22 +128,31 @@ Masculine     | Feminine| Neutral
 
 ### -e
 
-Masculine| Feminine    | Neutral
----------|-------------|---------
- X       |   die Kalte | X
- X       |   die Frage | X
+In German, nouns ending with "-e" are typically Feminine.
+
+Masculine | Feminine    | Neutral
+----------|-------------|---------
+ der Name |   die Kalte | X
+ der Junge|   die Frage | X
 
 ---
 
 ### -in
 
-Masculine| Feminine       | Neutral
----------|----------------|---------
- X       |   die Lehrerin | X
+In German, nouns ending with "-in" are typically Feminine.
+
+Masculine            | Feminine       | Neutral
+---------------------|----------------|---------
+ X                   |   die Lehrerin | X
+ X                   |   die Äztin    | X
+ X                   |   die Freundin | X
+ X                   |   die Studentin| X
 
 ---
 
 ### -heit
+
+In German, nouns ending with "-heit" are typically Feminine.
 
 Masculine| Feminine        | Neutral
 ---------|-----------------|---------
@@ -139,40 +162,56 @@ Masculine| Feminine        | Neutral
 
 ### -keit
 
+In German, nouns ending with "-keit" are typically Feminine.
+
 Masculine| Feminine           | Neutral
 ---------|--------------------|---------
  X       |   die Fröhlichkeit | X
+ X       |   die Möglichkeit  | X
 
 ---
 
 ### -ung
 
+In German, nouns ending with "-ung" are typically Feminine.
+
 Masculine| Feminine      | Neutral
 ---------|---------------|---------
  X       |   die Impfung | X
-
+ X       |   die Bildung | X
+ X       |   die Zeitung | X
 ---
 
 ### -chen
 
+In German, nouns ending with "-chen" are typically Neutral.
+
 Masculine| Feminine| Neutral
 ---------|---------|---------
+ X       |   X     | das Mädchen
  X       |   X     | das Häuschen
 
 ---
 
 ### -nis
 
+In German, nouns ending with "-nis" are typically Neutral.
+
 Masculine| Feminine| Neutral
 ---------|---------|---------
+ X       |   X     | das Ergebnis
  X       |   X     | das Ereignis
-
+ X       |   X     | das Geheimnis
 ---
 
 ### -lein
 
+In German, nouns ending with "-lein" are typically Neutral.
+
 Masculine| Feminine| Neutral
 ---------|---------|---------
  X       |   X     | das Bächlein
+ X       |   X     | das Kindlein
+
 
 ---
