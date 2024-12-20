@@ -2,6 +2,10 @@
 
 ## Dativ Case - Articles
 
+|           | masculine      |  feminine        | Neutral         |  plural    |
+|-----------|----------------|------------------|-----------------|------------|
+| Dativ     |dem/einem/keinem|  der/einer/keiner| dem/einem/keinem|  den/keinen|
+
 ---
 
 ### Masculine

@@ -2,6 +2,10 @@
 
 ## Accusative Case - Articles
 
+|           | masculine      |  feminine        | Neutral         |  plural    |
+|-----------|----------------|------------------|-----------------|------------|
+| Accusative| den/einen/kein |  die/eine/keine  | das/ein/kein    |  die/keine |
+
 ---
 
 ### Masculine
