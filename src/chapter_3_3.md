@@ -101,5 +101,54 @@ Pronoun Nominative| Verb    | Pronoun Dativ
  Ich              | hilft   | ihm
  Ich              | danke   | ihr
  Ich              | schicke | ihm
+ Ich              | antworte| Ihnen
+ Ich              | folge   | Ihnen
+ Ich              | vertraue| Ihnen
+ Ich              | gratulieren| dir
+
+### gehören (to belong to)
+
+* Das Buch gehört mir.
+* Der Hund gehört ihm.
+
+### gefallen (to please)
+
+* Das Kleid gefällt mir.
+* Der Film gefällt ihr.
+
+### helfen (to help)
+
+* Kannst du mir helfen?
+* Er hilft seinem Freund.
+
+### danken (to thank)
+
+* Ich danke dir für deine Hilfe.
+* Wir danken ihnen für das Geschenk.
+
+### schicken (to send)
+
+* Ich schicke ihm eine E-Mail.
+* Sie schickt ihrer Mutter eine Postkarte.
+
+### antworten (to answer)
+
+* Er antwortet mir nicht.
+* Sie antwortet dem Lehrer.
+
+### folgen (to follow)
+
+* Der Hund folgt seinem Besitzer.
+* Ich folge dir auf Instagram.
+
+### vertrauen (to trust)
+
+* Ich vertraue dir.
+* Sie vertraut ihrem Freund.
+
+### gratulieren (to congratulate)
+
+* Wir gratulieren dir zum Geburtstag.
+* Sie gratulieren ihm zur Hochzeit.
 
 ---
