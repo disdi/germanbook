@@ -2,6 +2,10 @@
 
 ## Nominative Case
 
+|           | masculine      |  feminine        | Neutral         |  plural    |
+|-----------|----------------|------------------|-----------------|------------|
+| Nominative| der/ein/kein   |  die/eine/keine  | das/ein/kein    |  die/keine |
+
 ---
 
 ### Masculine
