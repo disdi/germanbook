@@ -4,8 +4,8 @@
 [Foreword](foreword.md)
 
 - [Gender of Nouns](./chapter_1.md)
-- [Articles](./chapter_2.md)
-- [Cases](./chapter_3.md)
+- [Plural of Nouns](./chapter_2.md)
+- [Article Cases](./chapter_3.md)
   - [Nominative](./chapter_3_1.md)
   - [Accusative](./chapter_3_2.md)
   - [Dativ](./chapter_3_3.md)

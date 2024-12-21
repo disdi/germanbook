@@ -1,27 +1,11 @@
 # Chapter 2
 
-## Declension of "the" Articles
+In English most nouns form their plural by adding ‘-s’ to the singular form.
+In German, nouns tend to take certain endings according to their gender.
 
-|           | masculine|feminine | neutral |  plural |
-|-----------|----------|---------|---------|---------|
-| Nominative|    der   |   die   |  das    |  die    |
-| Accusative|    den   |   die   |  das    |  die    |
-| Dative    |    dem   |   der   |  dem    |  den    |
-| Genitive  |    des   |   der   |  des    |  der    |
-
-> **Applies also to -**  diese-, jede-, manche-, alle-, einige-
-
----
-
-## Declension of "a, an" Articles
-
-|           | masculine| feminine| neutral|
-|-----------|----------|---------|--------|
-| Nominative| ein      | eine    | ein    |
-| Accusative| einen    | eine    | ein    |
-| Dative    | einem    | einer   | einem  |
-| Genitive  | eines    | einer   | eines  |
-
-> **Applies also to -**  irgendien-
+|            | -e      |  -er       | -(e)n       |  s        |  X         |
+|------------|---------|------------|-------------|-----------|------------|
+| Singular   | der Tag |  das Bild  | die Frau    |  der Park | der Wagen  |
+| Plural     | die Tage|  die Bilder| die Frauen  |  die Parks| die Wagen  |
 
 ---
