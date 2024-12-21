@@ -10,13 +10,17 @@
 |   -ig      | -ie      |  -um    |
 |   -ich     | -heit    |  -chen  |
 |   -ling    | -keit    |  -lein  |
-|            | -schaft  |         |
-|            | -ik      |         |
-|            | -in      |         |
+|   -or      | -schaft  |  -o     |
+|   -us      | -ik      |  -il    |
+|            | -in      |  -ma    |
 |            | -ion     |         |
 |            | -tät     |         |
 |            | -ung     |         |
 |            | -ur      |         |
+|            | -a       |         |
+|            | -anz     |         |
+
+
 
 > Gender of compound noun always the gender of the last noun.
 
@@ -137,6 +141,28 @@ Masculine | Feminine    | Neutral
 
 ---
 
+
+### -or
+
+In German, nouns ending with "-or" are typically Masculine.
+
+Masculine     | Feminine   | Neutral
+--------------|------------|---------
+ der Motor    |  das Labor | X
+
+---
+
+### -us
+
+In German, nouns ending with "-us" are typically Masculine.
+
+Masculine          | Feminine| Neutral
+-------------------|---------|---------
+ der Materialismus |   X     | X
+
+---
+
+
 ### -in
 
 In German, nouns ending with "-in" are typically Feminine.
@@ -182,6 +208,26 @@ Masculine| Feminine      | Neutral
  X       |   die Zeitung | X
 ---
 
+### -a
+
+In German, nouns ending with "-a" are typically Feminine.
+
+Masculine| Feminine           | Neutral
+---------|--------------------|---------
+ X       |   die Pizza        | X
+
+---
+
+### -anz
+
+In German, nouns ending with "-anz" are typically Feminine.
+
+Masculine| Feminine           | Neutral
+---------|--------------------|---------
+ X       |   die Toleranz     | X
+
+---
+
 ### -chen
 
 In German, nouns ending with "-chen" are typically Neutral.
@@ -213,5 +259,40 @@ Masculine| Feminine| Neutral
  X       |   X     | das Bächlein
  X       |   X     | das Kindlein
 
+### -o
+
+In German, nouns ending with "-o" are typically Neutral.
+
+Masculine| Feminine| Neutral
+---------|---------|---------
+ X       |   X     | das Auto
+ X       |   X     | das Radio
+ X       |   X     | das Kino
+ X       |   X     | das Foto
+ X       |   X     | das Video
+ X       |   X     | das Konto 
+
+### -ma
+
+In German, nouns ending with "-ma" are typically Neutral.
+
+Masculine| Feminine| Neutral
+---------|---------|---------
+ X       |   X     | das Drama
+ X       |   X     | das Kilma
+ X       |   X     | das Komma
+ X       |   X     | das Trauma
+ X       |   X     | das Thema    
+
+### -il
+
+In German, nouns ending with "-il" are typically Neutral.
+
+Masculine| Feminine| Neutral
+---------|---------|---------
+ X       |   X     | das Ventil
+ X       |   X     | das Fossil
+ X       |   X     | das Textil
+ X       |   X     | das Mobil   
 
 ---
